@@ -1,30 +1,35 @@
-# 🚀 Odoo Hackathon 2025 – Team LumiNeura
+# 🧠 Skill Swap Platform – Odoo Hackathon 2025 | Team LumiNeur 
 
-> 💡 *Innovating with code. Creating with purpose*
-
----
-
-## 🧠 About the Repo
-
-This is the official repository for **Team LumiNeura**'s participation in the **Odoo Hackathon 2025 – Virtual Round**.  
-Here, you'll find our codebase, documentation, brainstorming notes, and all project-related resources.
-
-Stay tuned for innovation in action! ⚡
+💡 *Empowering people to grow by exchanging skills openly and creatively.*
 
 ---
 
-## 👥 Team LumiNeura
+## 🚀 Project Overview
 
-| Name           | Role        |
-|----------------|-------------|
-| **Dhruv Suthar**   | Team Lead |
-| **Pratham Patel** | Developer |
+**Skill Swap Platform** is a web-based mini-application where users can:
+- List the skills they can teach
+- Mention the skills they want to learn
+- Browse and connect with others to **swap** skills
+- Send/Accept/Reject/Delete swap requests
+- Leave ratings or feedback after swaps
+
+---
+
+## ⚙️ Tech Stack 
+
+- **Frontend**: HTML + Tailwind CSS + JavaScript
+- **Backend**: Node.js + Express.js
+- **Database**: MongoDB with Mongoose
+- **Hosting**: Render / Glitch *(optional)*
 
 ---
 
-## 📌 Problem Statement
+## Team LumiNeura
 
-> *To be revealed during the virtual round...*  
-We’ll update this section with our challenge prompt, approach, and plan once announced.
+- **Dhruv Suthar** – Team Lead, Full-stack Developer  
+- **Pratham Patel** – UI/UX, Frontend, Feature Support
 
 ---
+
+📌 Stay tuned for regular updates!
+
