@@ -42,6 +42,3 @@ The project is built under the team name **LumiNeura**, developed during the **O
 - 🎨 **Tailwind UI**: Clean, responsive, hackathon-compliant
 
 ---
-
-## 📁 Folder Structure
-
